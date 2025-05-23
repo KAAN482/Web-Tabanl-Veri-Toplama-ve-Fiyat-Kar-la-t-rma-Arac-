@@ -22,6 +22,4 @@ Bu Python tabanlı analiz aracı, bir çevrimiçi alışveriş platformunda ayn�
 ## Kurulum
 
 1. Gerekli kütüphaneleri yükleyin:
-
-   ```bash
-   pip install -r requirements.txt
+    pip install -r requirements.txt
