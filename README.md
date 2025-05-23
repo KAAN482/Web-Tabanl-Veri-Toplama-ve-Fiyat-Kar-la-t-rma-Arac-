@@ -1,5 +1,5 @@
 # Web Tabanlı Veri Toplama ve Fiyat Karşılaştırma Aracı
-Bu Python tabanlı analiz aracı, bir çevrimiçi alışveriş platformunda aynı ürünün birden fazla satıcı tarafından sunulduğu durumları tespit eder. Her bir satıcıyı fiyat, puan, kargo bilgisi,gibi kriterler açısından karşılaştırır ve ürün bazında analiz yaparak karşılaştırmalı sonuçlar üretir.
+Bu proje, Hepsiburada üzerindeki dizüstü bilgisayar ürünlerinin birden fazla satıcı tarafından sunulduğu durumları analiz eder. Ürün adı, fiyat, satıcı adı, puan ve kargo bilgisi gibi veriler toplanır, CSV dosyasına kaydedilir ve karşılaştırmalı analiz sunulur.
 
 ##  Özellikler
 
